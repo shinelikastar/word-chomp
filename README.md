@@ -1,3 +1,3 @@
 # word-chomp
 
-Markov text generator with some ~storytelling~ features
+Markov text generator with some ~ storytelling ~ features
