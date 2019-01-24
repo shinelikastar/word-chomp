@@ -3,8 +3,6 @@
 Markov text generator with some ~ storytelling ~ features
 
 ## Installing
-
-You can "git clone" this repository to any directory and run this command
 ```
 git clone https://github.com/shinelikastar/word-chomp.git
 ```
