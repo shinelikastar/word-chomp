@@ -2,7 +2,7 @@
 
 Markov text generator with some ~ storytelling ~ features
 
-## Installation
+## Installing
 
 You can "git clone" this repository to any directory and run this command
 ```
